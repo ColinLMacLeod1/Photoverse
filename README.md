@@ -1,7 +1,7 @@
 
 ![](https://www.dropbox.com/s/9atj9gzse8jjq0p/logo.png?dl=1)
 
-Photoverse is a web application creating using Node.js along with the Clarifai API that allows users to get 8tracks playlist suggestions based on pictures they select. Enjoy! Check it out at [Photoverse](http://blog.clarifai.com/clarifai-featured-hack-make-sweet-music-with-your-photos-using-photoverse/#.Vul6S4EXbqA)!
+Photoverse is a web application creating using Node.js along with the Clarifai API that allows users to get 8tracks playlist suggestions based on pictures they select. Enjoy! Check it out at [Photoverse](http://photoverse-.herokuapp.com/)!
 
 ## Motivation
 
